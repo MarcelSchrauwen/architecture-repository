@@ -1,2 +1,2 @@
 ## Architecture Repository
-Een omgeving waar ik ooit wat mee wil gaan doen.
+Een omgeving waar ik een kanban op bij hou voor hobby en studie doeleinden.

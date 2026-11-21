@@ -20,4 +20,4 @@ Omdat ieder architectuurinitiatief ergens moet beginnen, ligt het zwaartepunt mo
 - [Architecture Repository](https://marcelschrauwen.github.io/architecture-repository/)
 
 ## Voortgang
-- [Repo Kanban]()
+- [Repo Kanban](https://github.com/users/MarcelSchrauwen/projects/7)
